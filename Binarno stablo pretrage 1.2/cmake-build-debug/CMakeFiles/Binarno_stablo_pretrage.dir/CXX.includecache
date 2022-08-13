@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Dino/Programiranje/Cpp/Strukture podataka i algoritmi/Projekti/Drugi/Binarno stablo pretrage 1.2/Stablo.cpp
+Stablo.h
+D:/Dino/Programiranje/Cpp/Strukture podataka i algoritmi/Projekti/Drugi/Binarno stablo pretrage 1.2/Stablo.h
+
+D:/Dino/Programiranje/Cpp/Strukture podataka i algoritmi/Projekti/Drugi/Binarno stablo pretrage 1.2/Stablo.h
+Stablo.cpp
+D:/Dino/Programiranje/Cpp/Strukture podataka i algoritmi/Projekti/Drugi/Binarno stablo pretrage 1.2/Stablo.cpp
+
+D:/Dino/Programiranje/Cpp/Strukture podataka i algoritmi/Projekti/Drugi/Binarno stablo pretrage 1.2/main.cpp
+iostream
+-
+Stablo.h
+D:/Dino/Programiranje/Cpp/Strukture podataka i algoritmi/Projekti/Drugi/Binarno stablo pretrage 1.2/Stablo.h
+

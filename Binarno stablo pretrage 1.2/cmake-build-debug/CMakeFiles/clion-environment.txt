@@ -1,0 +1,4 @@
+ToolSet: w64 6.0 (local)@D:\Installed games and programs\C++\MinGW\mingw64
+Options: 
+
+Options:

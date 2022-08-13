@@ -1,0 +1,3 @@
+"D:\Installed games and programs\C++\CLion 2020.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Binarno_stablo_pretrage.dir/objects.a
+"D:\Installed games and programs\C++\MinGW\mingw64\bin\ar.exe" cr CMakeFiles\Binarno_stablo_pretrage.dir/objects.a @CMakeFiles\Binarno_stablo_pretrage.dir\objects1.rsp
+"D:\Installed games and programs\C++\MinGW\mingw64\bin\g++.exe" -g   -Wl,--whole-archive CMakeFiles\Binarno_stablo_pretrage.dir/objects.a -Wl,--no-whole-archive  -o Binarno_stablo_pretrage.exe -Wl,--out-implib,libBinarno_stablo_pretrage.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Binarno_stablo_pretrage.dir\linklibs.rsp
