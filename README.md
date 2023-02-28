@@ -1,4 +1,4 @@
-# Binary-search-tree-balanced-
+# Binary-search-tree-balanced
 
 This project represents binary search tree data structure and besides regular functions 
 it also has self-balancing criterium so it can maintain symmetrical size on the left and the right side.
